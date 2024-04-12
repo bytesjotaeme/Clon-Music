@@ -1,3 +1,5 @@
+Siguiendo un vivo de Midudev, aprendiendo muchas cosas:
+
 Lenguajes:
 
 JavaScript: Principalmente para el desarrollo del frontend y el manejo de la lógica del lado del cliente.
